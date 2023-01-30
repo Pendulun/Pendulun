@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pendulun (Daniel)
-- 👀 I’m interested in Data Science and Machine Learning
+- 👀 I’m interested in Machine Learning and Data Science
 - 🌱 I’m currently learning Machine Learning with Graphs; Causality; some web development with Flask and I'm always reading books
 - 📫 How to reach me: [@linkedin](https://br.linkedin.com/in/souzacamposdaniel) or [@gmail](danielsouzacampos20@gmail.com)
 
